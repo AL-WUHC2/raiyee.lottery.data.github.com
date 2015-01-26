@@ -1,4 +1,4 @@
-lottery_data("lotteryData" : [ {"name" : "三等奖",
+lottery_data({"lotteryData" : [ {"name" : "三等奖",
                                 "memb" : [
                                     "AAA3", "BBB3", "CCC3", "DDD3", "EEE3", "FFF3", "GGG3",
                                     "HHH3", "III3", "JJJ3", "KKK3", "LLL3", "MMM3", "NNN3",
@@ -21,4 +21,4 @@ lottery_data("lotteryData" : [ {"name" : "三等奖",
                                 ]}
                              ],
              "members" : ["ERROR1", "ERROR2", "ERROR3", "ERROR4", "ERROR5"]
-            );
+            });
